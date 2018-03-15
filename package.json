@@ -1,0 +1,9 @@
+{
+	"name": "algoliaassignment",
+	"version": "1.0.0",
+	"dependencies": {
+		"algoliasearch": "^3.25.1",
+		"algoliasearch-helper": "^2.24.0",
+		"package.json": "^2.0.1"
+	}
+}
